@@ -8,7 +8,12 @@ public class Test {
         Test t=new Test();
         t.show();
     }
+    /*
+    * show方法
+    *
+    * */
     public void show(){
         System.out.println("哈哈");
+        System.out.println(666666);
     }
 }
