@@ -6,6 +6,7 @@ public class Test1 {
         System.out.println(123);
     }
     public int aa(){
+        System.out.println("的");
         return 2;
     }
     public boolean ssss(){
