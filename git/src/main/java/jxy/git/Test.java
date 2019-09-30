@@ -16,11 +16,4 @@ public class Test {
         System.out.println("哈哈");
         System.out.println(666666);
     }
-
-    /**
-     * 是
-     */
-    public void s1(){
-        System.out.println("东欧");
-    }
 }
