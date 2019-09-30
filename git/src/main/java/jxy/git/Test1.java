@@ -7,6 +7,7 @@ public class Test1 {
     }
     public int aa(){
         System.out.println("的");
+        System.out.println("sss");
         return 2;
     }
     public boolean ssss(){
