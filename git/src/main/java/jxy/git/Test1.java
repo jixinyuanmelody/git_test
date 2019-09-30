@@ -11,6 +11,7 @@ public class Test1 {
         return 2;
     }
     public boolean ssss(){
+        System.out.println("ss");
         return true;
     }
 }
