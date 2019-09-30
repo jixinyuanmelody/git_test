@@ -16,4 +16,9 @@ public class Test {
         System.out.println("哈哈");
         System.out.println(666666);
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 }
