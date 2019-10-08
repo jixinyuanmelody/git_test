@@ -15,5 +15,6 @@ public class Test {
     public void show(){
         System.out.println("哈哈");
         System.out.println(666666);
+        System.out.println("ss");
     }
 }
